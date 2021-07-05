@@ -1,5 +1,3 @@
-# Welcome To TOXIC-DEVIL 👋!
-
 # Hi I'm TOXIC DEVIL&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
 - 🧑‍🏫 I’m currently working **very hard.**
@@ -27,12 +25,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOXIC-DEVIL&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TOXIC-DEVIL"/></p></a><br> 
 
-## See My Project
+See My Project
+
 <details>
   <summary>My New WhatsApp User Bot Project</summary>
    <a href="https://github.com/TOXIC-DEVIL/Felix-Userbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Felix-Userbot">
-  </a>
-
-<!---
-</details>
+ 
