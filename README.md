@@ -18,10 +18,8 @@
 - 🆓 Don't Forget To **[Follow Me](https://github.com/TOXIC-DEVIL)**
 
  
-See My Project
-
 <details>
-  <summary>My New WhatsApp User Bot Project</summary>
+  <summary>Click Here To See My New WhatsApp User Bot Project</summary>
    <a href="https://github.com/TOXIC-DEVIL/Felix-Userbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Felix-Userbot">
  
