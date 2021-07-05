@@ -17,8 +17,6 @@
 
 - 🆓 Don't Forget To **[Follow Me](https://github.com/TOXIC-DEVIL)**
 
-<p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br> 
-
  
 See My Project
 
@@ -27,3 +25,4 @@ See My Project
    <a href="https://github.com/TOXIC-DEVIL/Felix-Userbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Felix-Userbot">
  
+<p align="center"> <a href="TOXIC-DEVIL"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=TOXIC-DEVIL&label=SITE%20VISITORS&color=blueviolet&style=flat-square" alt="TOXIC-DEVIL" /></a> </p><br> 
