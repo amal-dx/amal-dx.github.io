@@ -1,2 +1,7 @@
-# toxic-devil.github.io
-https://toxic-devil.github.io
+# New Website
+
+👇 👇 👇 👇 👇 👇 👇 👇
+
+**[https://toxic-devil.com](https://toxic-devil.github.io)**
+
+👆 👆 👆 👆 👆 👆 👆 👆
