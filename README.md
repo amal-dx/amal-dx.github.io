@@ -2,6 +2,8 @@
 
 https://toxic-devil.github.io
 
+**[Also Now You Can Contact me Live](https://toxic-devil.github.io)**
+
 ## Site Shots 📸
 
 ### Shot 1 📸
