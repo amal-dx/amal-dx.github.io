@@ -287,14 +287,14 @@ swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play
           sec = now.getSeconds(),
           pe = "Morning 🌞";
 
-          if(hou >= 12){
-            pe = "Night 💭";
+          if(hou == 12){
+            pe = "Good After Noon 💥";
           }
-          if(hou == 0){
-            hou = 12;
+          if(hou == 3){
+            pe = "Good Evening ⚽";
           }
           if(hou > 12){
-            hou = hou - 12;
+             pe = "Good Night 🌜";
           }
 
           Number.prototype.pad = function(digits){
