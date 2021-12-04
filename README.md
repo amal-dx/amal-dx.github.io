@@ -1,6 +1,6 @@
 # toxic-devil.github.io 💫
 
-https://toxic-devil.github.io
+https://github.com/amal-dx/toxic-devil.github.io
 
 ## Site Shots 📸
 
